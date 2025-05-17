@@ -1,1 +1,1 @@
-{"root":{"data":{"id":"d9yfiq218wo0","created":1747484398359,"text":"服务器部署gitlab以及drone安装并用nginx代理。"},"children":[]},"template":"default","theme":"fresh-blue","version":"1.4.43"}
+{"root":{"data":{"id":"d9yfiq218wo0","created":1747484398359,"text":"服务器部署gitlab以及drone安装并用nginx代理。"},"children":[{"data":{"id":"d9yfygh0mu00","created":1747485631324,"text":"首先安装gitlab"},"children":[]}]},"template":"default","theme":"fresh-blue","version":"1.4.43"}
