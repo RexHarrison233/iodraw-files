@@ -4,27 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="p6a-Jga673yD5hfQeKmh-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p6a-Jga673yD5hfQeKmh-1" target="p6a-Jga673yD5hfQeKmh-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="p6a-Jga673yD5hfQeKmh-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p6a-Jga673yD5hfQeKmh-1" target="p6a-Jga673yD5hfQeKmh-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="p6a-Jga673yD5hfQeKmh-1" value="创建myPromise对象=&amp;gt;p" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="100" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="p6a-Jga673yD5hfQeKmh-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p6a-Jga673yD5hfQeKmh-2" target="p6a-Jga673yD5hfQeKmh-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="p6a-Jga673yD5hfQeKmh-2" value="对象内设置100ms延迟后返回resolve（123）" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="314" y="92.5" width="146" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="p6a-Jga673yD5hfQeKmh-4" value="调用&lt;br&gt;p.then&lt;div&gt;p.then&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="92.5" width="93" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="p6a-Jga673yD5hfQeKmh-6" value="" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="195" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="vbCNCnAVihHPZjUaovIV-1" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="100" y="280" width="150" height="3599" as="geometry" />
         </mxCell>
