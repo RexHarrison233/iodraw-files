@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="_bP7xdYeeZkMDFsahFbH">
-    <mxGraphModel dx="1080" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="977" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
           <mxGeometry x="213" y="406" width="1884" height="296" as="geometry" />
         </mxCell>
         <mxCell id="IMFbSIyPAA30QSWaVvfZ-10" value="前端层 Frontend" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1541" y="20" width="530" height="313" as="geometry" />
+          <mxGeometry x="820" y="20" width="1251" height="313" as="geometry" />
         </mxCell>
         <mxCell id="IMFbSIyPAA30QSWaVvfZ-11" value="Vue.js 应用" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1745" y="45" width="141" height="49" as="geometry" />
