@@ -754,7 +754,7 @@
           <mxGeometry x="837" y="4795" width="152" height="320" as="geometry" />
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-157" value="阶段一：准备与检查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="848" y="4460" width="336" height="285" as="geometry" />
+          <mxGeometry x="851.5" y="4470" width="336" height="285" as="geometry" />
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-158" value="开始部署" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="976" y="4485" width="87" height="34" as="geometry" />
