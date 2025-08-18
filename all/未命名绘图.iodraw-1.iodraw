@@ -784,7 +784,7 @@
           <mxGeometry x="860" y="5180" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-167" value="8. 配置 Nginx 与 Supervisor" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="883" y="5270" width="60" height="30" as="geometry" />
+          <mxGeometry x="860" y="5260" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-168" value="9. 启动所有服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="883" y="5350" width="60" height="30" as="geometry" />
