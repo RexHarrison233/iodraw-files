@@ -1,0 +1,101 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="5o5adNxJprcGn5DX6s31">
+    <mxGraphModel dx="1026" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WMYZcLArmpmOGupys3rV-1" value="开始部署" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="83" y="30" width="87" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="WMYZcLArmpmOGupys3rV-2" value="1. 环境检查与准备&#xa;- 确认系统、硬件、权限&#xa;- 检测并选定Python版本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="97" y="114" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WMYZcLArmpmOGupys3rV-3" value="2. 安装核心依赖&#xa;- Nginx, MySQL&#xa;- Node.js, Supervisor" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="97" y="194" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WMYZcLArmpmOGupys3rV-4" value="3. 初始化并配置数据库&#xa;- 安全加固&#xa;- 创建专用数据库和用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="97" y="274" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WMYZcLArmpmOGupys3rV-5" value="4. 创建目录并复制项目代码&#xa;- 创建部署、日志、备份目录&#xa;- 复制前后端代码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="97" y="354" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WMYZcLArmpmOGupys3rV-6" value="5. 配置后端 Django&#xa;- 创建虚拟环境并安装依赖&#xa;- 生成生产配置&#xa;- 数据库迁移和收集静态文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="97" y="434" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WMYZcLArmpmOGupys3rV-7" value="6. 构建前端 React&#xa;- 安装Node.js依赖&#xa;- 执行生产构建" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="97" y="514" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WMYZcLArmpmOGupys3rV-8" value="7. 安装辅助服务与SSL证书&#xa;- 安装配置Redis&#xa;- 安装SSL证书启用HTTPS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="97" y="594" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WMYZcLArmpmOGupys3rV-9" value="8. 配置服务 Nginx 与 Supervisor&#xa;- Nginx: 配置反向代理&#xa;- Supervisor: 配置进程守护" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="97" y="674" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WMYZcLArmpmOGupys3rV-10" value="9. 最终启动与验证&#xa;- 创建定时备份任务&#xa;- 启动所有服务&#xa;- 检查运行状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="97" y="754" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WMYZcLArmpmOGupys3rV-11" value="输出访问地址与管理信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="20" y="834" width="213" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="WMYZcLArmpmOGupys3rV-12" value="部署完成" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="83" y="917" width="87" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="WMYZcLArmpmOGupys3rV-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.49;entryY=-0.02;rounded=0;" edge="1" parent="1" source="WMYZcLArmpmOGupys3rV-1" target="WMYZcLArmpmOGupys3rV-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMYZcLArmpmOGupys3rV-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=0.98;entryX=0.49;entryY=-0.02;rounded=0;" edge="1" parent="1" source="WMYZcLArmpmOGupys3rV-2" target="WMYZcLArmpmOGupys3rV-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMYZcLArmpmOGupys3rV-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=0.98;entryX=0.49;entryY=-0.02;rounded=0;" edge="1" parent="1" source="WMYZcLArmpmOGupys3rV-3" target="WMYZcLArmpmOGupys3rV-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMYZcLArmpmOGupys3rV-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=0.98;entryX=0.49;entryY=-0.02;rounded=0;" edge="1" parent="1" source="WMYZcLArmpmOGupys3rV-4" target="WMYZcLArmpmOGupys3rV-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMYZcLArmpmOGupys3rV-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=0.98;entryX=0.49;entryY=-0.02;rounded=0;" edge="1" parent="1" source="WMYZcLArmpmOGupys3rV-5" target="WMYZcLArmpmOGupys3rV-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMYZcLArmpmOGupys3rV-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=0.98;entryX=0.49;entryY=-0.02;rounded=0;" edge="1" parent="1" source="WMYZcLArmpmOGupys3rV-6" target="WMYZcLArmpmOGupys3rV-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMYZcLArmpmOGupys3rV-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=0.98;entryX=0.49;entryY=-0.02;rounded=0;" edge="1" parent="1" source="WMYZcLArmpmOGupys3rV-7" target="WMYZcLArmpmOGupys3rV-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMYZcLArmpmOGupys3rV-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=0.98;entryX=0.49;entryY=-0.02;rounded=0;" edge="1" parent="1" source="WMYZcLArmpmOGupys3rV-8" target="WMYZcLArmpmOGupys3rV-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMYZcLArmpmOGupys3rV-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=0.98;entryX=0.49;entryY=-0.02;rounded=0;" edge="1" parent="1" source="WMYZcLArmpmOGupys3rV-9" target="WMYZcLArmpmOGupys3rV-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMYZcLArmpmOGupys3rV-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=0.98;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="WMYZcLArmpmOGupys3rV-10" target="WMYZcLArmpmOGupys3rV-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMYZcLArmpmOGupys3rV-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WMYZcLArmpmOGupys3rV-11" target="WMYZcLArmpmOGupys3rV-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
