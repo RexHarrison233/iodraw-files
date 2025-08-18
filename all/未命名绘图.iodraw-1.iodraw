@@ -760,7 +760,7 @@
           <mxGeometry x="976" y="4485" width="87" height="34" as="geometry" />
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-159" value="1. 环境检查" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1005" y="4540" width="55" height="59" as="geometry" />
+          <mxGeometry x="984.5" y="4540" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-160" value="2. 安装核心依赖" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="883" y="4680" width="60" height="30" as="geometry" />
@@ -820,11 +820,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZIjIEUtGSeQatQSBwx2C-176" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.62;exitY=0;entryX=1;entryY=0.75;rounded=0;" edge="1" parent="1" source="ZIjIEUtGSeQatQSBwx2C-161" target="ZIjIEUtGSeQatQSBwx2C-159">
+        <mxCell id="ZIjIEUtGSeQatQSBwx2C-176" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.62;exitY=0;entryX=1;entryY=0.75;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1117" y="4635" />
+              <mxPoint x="1119.17" y="4635" />
             </Array>
+            <mxPoint x="1091.8900000000003" y="4671" as="sourcePoint" />
+            <mxPoint x="1045.0033333333336" y="4586.666666666666" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-177" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.02;rounded=0;" edge="1" parent="1" source="ZIjIEUtGSeQatQSBwx2C-160" target="ZIjIEUtGSeQatQSBwx2C-162">
