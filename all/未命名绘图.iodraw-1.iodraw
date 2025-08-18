@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="5o5adNxJprcGn5DX6s31">
-    <mxGraphModel dx="2399" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1647" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -745,61 +745,61 @@
           </mxCell>
         </UserObject>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-154" value="完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="43" y="5636" width="157" height="84" as="geometry" />
+          <mxGeometry x="733" y="5656" width="157" height="84" as="geometry" />
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-155" value="阶段三：部署与启动" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="5145" width="425" height="441" as="geometry" />
+          <mxGeometry x="710" y="5165" width="425" height="441" as="geometry" />
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-156" value="阶段二：配置与构建" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="147" y="4775" width="152" height="320" as="geometry" />
+          <mxGeometry x="837" y="4795" width="152" height="320" as="geometry" />
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-157" value="阶段一：准备与检查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="158" y="4440" width="336" height="285" as="geometry" />
+          <mxGeometry x="848" y="4460" width="336" height="285" as="geometry" />
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-158" value="开始部署" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="286" y="4465" width="87" height="34" as="geometry" />
+          <mxGeometry x="976" y="4485" width="87" height="34" as="geometry" />
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-159" value="1. 环境检查" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="315" y="4549" width="30" height="30" as="geometry" />
+          <mxGeometry x="1005" y="4569" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-160" value="2. 安装核心依赖" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="193" y="4660" width="60" height="30" as="geometry" />
+          <mxGeometry x="883" y="4680" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-161" value="修复环境问题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="303" y="4651" width="156" height="49" as="geometry" />
+          <mxGeometry x="993" y="4671" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-162" value="3. 初始化并配置数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="193" y="4800" width="60" height="30" as="geometry" />
+          <mxGeometry x="883" y="4820" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-163" value="4. 创建目录并复制项目代码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="193" y="4880" width="60" height="30" as="geometry" />
+          <mxGeometry x="883" y="4900" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-164" value="5. 配置后端 Django" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="193" y="4960" width="60" height="30" as="geometry" />
+          <mxGeometry x="883" y="4980" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-165" value="6. 构建前端 React" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="193" y="5040" width="60" height="30" as="geometry" />
+          <mxGeometry x="883" y="5060" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-166" value="7. 安装辅助服务与SSL" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="193" y="5170" width="60" height="30" as="geometry" />
+          <mxGeometry x="883" y="5190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-167" value="8. 配置 Nginx 与 Supervisor" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="193" y="5250" width="60" height="30" as="geometry" />
+          <mxGeometry x="883" y="5270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-168" value="9. 启动所有服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="193" y="5330" width="60" height="30" as="geometry" />
+          <mxGeometry x="883" y="5350" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-169" value="10. 验证服务状态" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="135" y="5410" width="30" height="30" as="geometry" />
+          <mxGeometry x="825" y="5430" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-170" value="输出部署信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="55" y="5520" width="133" height="34" as="geometry" />
+          <mxGeometry x="745" y="5540" width="133" height="34" as="geometry" />
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-171" value="检查日志并修复" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="238" y="5512" width="172" height="49" as="geometry" />
+          <mxGeometry x="928" y="5532" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-172" value="部署结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="78" y="5661" width="87" height="34" as="geometry" />
+          <mxGeometry x="768" y="5681" width="87" height="34" as="geometry" />
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-173" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=0.99;entryX=0.5;entryY=-0.02;rounded=0;" edge="1" parent="1" source="ZIjIEUtGSeQatQSBwx2C-158" target="ZIjIEUtGSeQatQSBwx2C-159">
           <mxGeometry relative="1" as="geometry">
@@ -809,21 +809,21 @@
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-174" value="通过" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.72;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="ZIjIEUtGSeQatQSBwx2C-159" target="ZIjIEUtGSeQatQSBwx2C-160">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="223" y="4615" />
+              <mxPoint x="913" y="4635" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-175" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.37;entryY=0;rounded=0;" edge="1" parent="1" source="ZIjIEUtGSeQatQSBwx2C-159" target="ZIjIEUtGSeQatQSBwx2C-161">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="330" y="4615" />
+              <mxPoint x="1020" y="4635" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-176" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.62;exitY=0;entryX=1;entryY=0.75;rounded=0;" edge="1" parent="1" source="ZIjIEUtGSeQatQSBwx2C-161" target="ZIjIEUtGSeQatQSBwx2C-159">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="427" y="4615" />
+              <mxPoint x="1117" y="4635" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -865,29 +865,29 @@
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-184" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.04;exitY=0.98;entryX=0.49;entryY=-0.02;rounded=0;" edge="1" parent="1" source="ZIjIEUtGSeQatQSBwx2C-168" target="ZIjIEUtGSeQatQSBwx2C-169">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="150" y="5385" />
+              <mxPoint x="840" y="5405" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-185" value="成功" style="curved=1;startArrow=none;endArrow=block;exitX=0.22;exitY=0.98;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="ZIjIEUtGSeQatQSBwx2C-169" target="ZIjIEUtGSeQatQSBwx2C-170">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="122" y="5476" />
+              <mxPoint x="812" y="5496" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-186" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.74;entryX=0.33;entryY=0;rounded=0;" edge="1" parent="1" source="ZIjIEUtGSeQatQSBwx2C-169" target="ZIjIEUtGSeQatQSBwx2C-171">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="251" y="5476" />
+              <mxPoint x="941" y="5496" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-187" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.62;exitY=0;entryX=1;entryY=0.75;rounded=0;" edge="1" parent="1" source="ZIjIEUtGSeQatQSBwx2C-171" target="ZIjIEUtGSeQatQSBwx2C-168">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="375" y="5476" />
-              <mxPoint x="375" y="5385" />
+              <mxPoint x="1065" y="5496" />
+              <mxPoint x="1065" y="5405" />
             </Array>
           </mxGeometry>
         </mxCell>
