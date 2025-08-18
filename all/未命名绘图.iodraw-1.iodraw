@@ -754,7 +754,7 @@
           <mxGeometry x="837" y="4795" width="152" height="320" as="geometry" />
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-157" value="阶段一：准备与检查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="851.5" y="4470" width="336" height="285" as="geometry" />
+          <mxGeometry x="851.5" y="4480" width="336" height="285" as="geometry" />
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-158" value="开始部署" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="976" y="4485" width="87" height="34" as="geometry" />
@@ -769,7 +769,7 @@
           <mxGeometry x="993" y="4671" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-162" value="3. 初始化并配置数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="883" y="4820" width="60" height="30" as="geometry" />
+          <mxGeometry x="883" y="4820" width="77" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZIjIEUtGSeQatQSBwx2C-163" value="4. 创建目录并复制项目代码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="883" y="4900" width="60" height="30" as="geometry" />
