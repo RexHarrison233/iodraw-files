@@ -1,70 +1,70 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="NyiQFx42E2sAVRaxiwUZ">
-    <mxGraphModel dx="2052" dy="1486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="W2uDmelWTGiaf12AACRw-57" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="W2uDmelWTGiaf12AACRw-57" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
           <mxGeometry x="20" y="560" width="150" height="1509" as="geometry" />
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-58" value="前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="W2uDmelWTGiaf12AACRw-58" value="前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
           <mxGeometry x="234" y="560" width="150" height="1509" as="geometry" />
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-59" value="后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="W2uDmelWTGiaf12AACRw-59" value="后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
           <mxGeometry x="591" y="560" width="150" height="1509" as="geometry" />
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-60" value="Gemini" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="W2uDmelWTGiaf12AACRw-60" value="Gemini" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
           <mxGeometry x="816" y="560" width="150" height="1509" as="geometry" />
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-61" value="讯飞TTS" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="W2uDmelWTGiaf12AACRw-61" value="讯飞TTS" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
           <mxGeometry x="1016" y="560" width="150" height="1509" as="geometry" />
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-62" value="Whisper" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="W2uDmelWTGiaf12AACRw-62" value="Whisper" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
           <mxGeometry x="1216" y="560" width="150" height="1509" as="geometry" />
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-63" value="Librosa" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="W2uDmelWTGiaf12AACRw-63" value="Librosa" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
           <mxGeometry x="1416" y="560" width="150" height="1509" as="geometry" />
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-64" value="OpenCV" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="W2uDmelWTGiaf12AACRw-64" value="OpenCV" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
           <mxGeometry x="1616" y="560" width="150" height="1509" as="geometry" />
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-65" value="并行分析" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+        <mxCell id="W2uDmelWTGiaf12AACRw-65" value="并行分析" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" parent="1" vertex="1">
           <mxGeometry x="582" y="1233" width="1120" height="637" as="geometry" />
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-66" value="[文本处理]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="W2uDmelWTGiaf12AACRw-65">
+        <mxCell id="W2uDmelWTGiaf12AACRw-66" value="[文本处理]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" parent="W2uDmelWTGiaf12AACRw-65" vertex="1">
           <mxGeometry x="30" width="1090" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-67" value="[语音质量]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="W2uDmelWTGiaf12AACRw-65">
+        <mxCell id="W2uDmelWTGiaf12AACRw-67" value="[语音质量]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" parent="W2uDmelWTGiaf12AACRw-65" vertex="1">
           <mxGeometry y="258" width="1120" height="4" as="geometry" />
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-68" value="[视频分析(最耗时)]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="W2uDmelWTGiaf12AACRw-65">
+        <mxCell id="W2uDmelWTGiaf12AACRw-68" value="[视频分析(最耗时)]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" parent="W2uDmelWTGiaf12AACRw-65" vertex="1">
           <mxGeometry y="493" width="1120" height="4" as="geometry" />
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-69" value="上传简历 PDF" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="W2uDmelWTGiaf12AACRw-57" target="W2uDmelWTGiaf12AACRw-58">
+        <mxCell id="W2uDmelWTGiaf12AACRw-69" value="上传简历 PDF" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="W2uDmelWTGiaf12AACRw-57" target="W2uDmelWTGiaf12AACRw-58" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="211" y="671" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-70" value="1" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" vertex="1" parent="W2uDmelWTGiaf12AACRw-69">
+        <mxCell id="W2uDmelWTGiaf12AACRw-70" value="1" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" parent="W2uDmelWTGiaf12AACRw-69" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="-114.5" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-71" value="PDF 文件" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="W2uDmelWTGiaf12AACRw-58" target="W2uDmelWTGiaf12AACRw-59">
+        <mxCell id="W2uDmelWTGiaf12AACRw-71" value="PDF 文件" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="W2uDmelWTGiaf12AACRw-58" target="W2uDmelWTGiaf12AACRw-59" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="496" y="727" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-72" value="2" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" vertex="1" parent="W2uDmelWTGiaf12AACRw-71">
+        <mxCell id="W2uDmelWTGiaf12AACRw-72" value="2" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" parent="W2uDmelWTGiaf12AACRw-71" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="-186" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-73" value="PyPDF2 解析文本" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="W2uDmelWTGiaf12AACRw-59" target="W2uDmelWTGiaf12AACRw-59">
+        <mxCell id="W2uDmelWTGiaf12AACRw-73" value="PyPDF2 解析文本" style="curved=1;endArrow=block;rounded=0;" parent="1" source="W2uDmelWTGiaf12AACRw-59" target="W2uDmelWTGiaf12AACRw-59" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="717" y="783" />
@@ -72,180 +72,180 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-74" value="3" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" vertex="1" parent="W2uDmelWTGiaf12AACRw-73">
+        <mxCell id="W2uDmelWTGiaf12AACRw-74" value="3" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" parent="W2uDmelWTGiaf12AACRw-73" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="-57" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-75" value="简历文本 → 生成题目" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="W2uDmelWTGiaf12AACRw-59" target="W2uDmelWTGiaf12AACRw-60">
+        <mxCell id="W2uDmelWTGiaf12AACRw-75" value="简历文本 → 生成题目" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="W2uDmelWTGiaf12AACRw-59" target="W2uDmelWTGiaf12AACRw-60" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="787" y="869" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-76" value="4" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" vertex="1" parent="W2uDmelWTGiaf12AACRw-75">
+        <mxCell id="W2uDmelWTGiaf12AACRw-76" value="4" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" parent="W2uDmelWTGiaf12AACRw-75" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="-120" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-77" value="题目(文本)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="W2uDmelWTGiaf12AACRw-60" target="W2uDmelWTGiaf12AACRw-59">
+        <mxCell id="W2uDmelWTGiaf12AACRw-77" value="题目(文本)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" source="W2uDmelWTGiaf12AACRw-60" target="W2uDmelWTGiaf12AACRw-59" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="790" y="917" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-78" value="5" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" vertex="1" parent="W2uDmelWTGiaf12AACRw-77">
+        <mxCell id="W2uDmelWTGiaf12AACRw-78" value="5" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" parent="W2uDmelWTGiaf12AACRw-77" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="106" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-79" value="合成题目语音" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="W2uDmelWTGiaf12AACRw-59" target="W2uDmelWTGiaf12AACRw-61">
+        <mxCell id="W2uDmelWTGiaf12AACRw-79" value="合成题目语音" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="W2uDmelWTGiaf12AACRw-59" target="W2uDmelWTGiaf12AACRw-61" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="887" y="965" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-80" value="6" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" vertex="1" parent="W2uDmelWTGiaf12AACRw-79">
+        <mxCell id="W2uDmelWTGiaf12AACRw-80" value="6" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" parent="W2uDmelWTGiaf12AACRw-79" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="-220" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-81" value="题目音频" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="W2uDmelWTGiaf12AACRw-61" target="W2uDmelWTGiaf12AACRw-59">
+        <mxCell id="W2uDmelWTGiaf12AACRw-81" value="题目音频" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" source="W2uDmelWTGiaf12AACRw-61" target="W2uDmelWTGiaf12AACRw-59" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="890" y="1013" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-82" value="7" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" vertex="1" parent="W2uDmelWTGiaf12AACRw-81">
+        <mxCell id="W2uDmelWTGiaf12AACRw-82" value="7" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" parent="W2uDmelWTGiaf12AACRw-81" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="206" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-83" value="题目文本+音频" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="W2uDmelWTGiaf12AACRw-59" target="W2uDmelWTGiaf12AACRw-58">
+        <mxCell id="W2uDmelWTGiaf12AACRw-83" value="题目文本+音频" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" source="W2uDmelWTGiaf12AACRw-59" target="W2uDmelWTGiaf12AACRw-58" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="499" y="1061" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-84" value="8" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" vertex="1" parent="W2uDmelWTGiaf12AACRw-83">
+        <mxCell id="W2uDmelWTGiaf12AACRw-84" value="8" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" parent="W2uDmelWTGiaf12AACRw-83" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="172" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-85" value="展示题目并播放语音" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="W2uDmelWTGiaf12AACRw-58" target="W2uDmelWTGiaf12AACRw-57">
+        <mxCell id="W2uDmelWTGiaf12AACRw-85" value="展示题目并播放语音" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" source="W2uDmelWTGiaf12AACRw-58" target="W2uDmelWTGiaf12AACRw-57" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="214" y="1109" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-86" value="9" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" vertex="1" parent="W2uDmelWTGiaf12AACRw-85">
+        <mxCell id="W2uDmelWTGiaf12AACRw-86" value="9" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" parent="W2uDmelWTGiaf12AACRw-85" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="100.5" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-87" value="开启摄像头并作答" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="W2uDmelWTGiaf12AACRw-57" target="W2uDmelWTGiaf12AACRw-58">
+        <mxCell id="W2uDmelWTGiaf12AACRw-87" value="开启摄像头并作答" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="W2uDmelWTGiaf12AACRw-57" target="W2uDmelWTGiaf12AACRw-58" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="211" y="1157" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-88" value="10" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" vertex="1" parent="W2uDmelWTGiaf12AACRw-87">
+        <mxCell id="W2uDmelWTGiaf12AACRw-88" value="10" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" parent="W2uDmelWTGiaf12AACRw-87" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="-114.5" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-89" value="WebSocket 发送音视频流（回答完毕）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="W2uDmelWTGiaf12AACRw-58" target="W2uDmelWTGiaf12AACRw-59">
+        <mxCell id="W2uDmelWTGiaf12AACRw-89" value="WebSocket 发送音视频流（回答完毕）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="W2uDmelWTGiaf12AACRw-58" target="W2uDmelWTGiaf12AACRw-59" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="496" y="1213" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-90" value="11" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" vertex="1" parent="W2uDmelWTGiaf12AACRw-89">
+        <mxCell id="W2uDmelWTGiaf12AACRw-90" value="11" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" parent="W2uDmelWTGiaf12AACRw-89" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="-186" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-91" value="音频轨 → 语音识别" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="W2uDmelWTGiaf12AACRw-59" target="W2uDmelWTGiaf12AACRw-62">
+        <mxCell id="W2uDmelWTGiaf12AACRw-91" value="音频轨 → 语音识别" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="W2uDmelWTGiaf12AACRw-59" target="W2uDmelWTGiaf12AACRw-62" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="987" y="1314" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-92" value="12" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" vertex="1" parent="W2uDmelWTGiaf12AACRw-91">
+        <mxCell id="W2uDmelWTGiaf12AACRw-92" value="12" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" parent="W2uDmelWTGiaf12AACRw-91" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="-320" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-93" value="识别文本" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="W2uDmelWTGiaf12AACRw-62" target="W2uDmelWTGiaf12AACRw-59">
+        <mxCell id="W2uDmelWTGiaf12AACRw-93" value="识别文本" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" source="W2uDmelWTGiaf12AACRw-62" target="W2uDmelWTGiaf12AACRw-59" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="990" y="1362" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-94" value="13" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" vertex="1" parent="W2uDmelWTGiaf12AACRw-93">
+        <mxCell id="W2uDmelWTGiaf12AACRw-94" value="13" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" parent="W2uDmelWTGiaf12AACRw-93" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="306" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-95" value="识别文本 → 多维评分" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="W2uDmelWTGiaf12AACRw-59" target="W2uDmelWTGiaf12AACRw-60">
+        <mxCell id="W2uDmelWTGiaf12AACRw-95" value="识别文本 → 多维评分" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="W2uDmelWTGiaf12AACRw-59" target="W2uDmelWTGiaf12AACRw-60" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="787" y="1418" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-96" value="14" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" vertex="1" parent="W2uDmelWTGiaf12AACRw-95">
+        <mxCell id="W2uDmelWTGiaf12AACRw-96" value="14" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" parent="W2uDmelWTGiaf12AACRw-95" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="-120" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-97" value="文本评分" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="W2uDmelWTGiaf12AACRw-60" target="W2uDmelWTGiaf12AACRw-59">
+        <mxCell id="W2uDmelWTGiaf12AACRw-97" value="文本评分" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" source="W2uDmelWTGiaf12AACRw-60" target="W2uDmelWTGiaf12AACRw-59" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="790" y="1466" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-98" value="15" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" vertex="1" parent="W2uDmelWTGiaf12AACRw-97">
+        <mxCell id="W2uDmelWTGiaf12AACRw-98" value="15" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" parent="W2uDmelWTGiaf12AACRw-97" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="106" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-99" value="音频轨 → 特征提取（第二耗时）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="W2uDmelWTGiaf12AACRw-59" target="W2uDmelWTGiaf12AACRw-63">
+        <mxCell id="W2uDmelWTGiaf12AACRw-99" value="音频轨 → 特征提取（第二耗时）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="W2uDmelWTGiaf12AACRw-59" target="W2uDmelWTGiaf12AACRw-63" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1087" y="1567" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-100" value="16" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" vertex="1" parent="W2uDmelWTGiaf12AACRw-99">
+        <mxCell id="W2uDmelWTGiaf12AACRw-100" value="16" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" parent="W2uDmelWTGiaf12AACRw-99" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="-420" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-101" value="语速/流利度/稳定性/情绪 指标" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="W2uDmelWTGiaf12AACRw-63" target="W2uDmelWTGiaf12AACRw-59">
+        <mxCell id="W2uDmelWTGiaf12AACRw-101" value="语速/流利度/稳定性/情绪 指标" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" source="W2uDmelWTGiaf12AACRw-63" target="W2uDmelWTGiaf12AACRw-59" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1090" y="1623" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-102" value="17" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" vertex="1" parent="W2uDmelWTGiaf12AACRw-101">
+        <mxCell id="W2uDmelWTGiaf12AACRw-102" value="17" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" parent="W2uDmelWTGiaf12AACRw-101" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="406" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-103" value="语音质量评分" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" edge="1" parent="1" source="W2uDmelWTGiaf12AACRw-59" target="W2uDmelWTGiaf12AACRw-59">
+        <mxCell id="W2uDmelWTGiaf12AACRw-103" value="语音质量评分" style="curved=1;dashed=1;dashPattern=2 3;endArrow=block;rounded=0;" parent="1" source="W2uDmelWTGiaf12AACRw-59" target="W2uDmelWTGiaf12AACRw-59" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="717" y="1671" />
@@ -253,55 +253,55 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-104" value="18" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" vertex="1" parent="W2uDmelWTGiaf12AACRw-103">
+        <mxCell id="W2uDmelWTGiaf12AACRw-104" value="18" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" parent="W2uDmelWTGiaf12AACRw-103" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="-57" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-105" value="视频轨 → 人脸/关键帧/表情/眼神/动作情绪" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="W2uDmelWTGiaf12AACRw-59" target="W2uDmelWTGiaf12AACRw-64">
+        <mxCell id="W2uDmelWTGiaf12AACRw-105" value="视频轨 → 人脸/关键帧/表情/眼神/动作情绪" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="W2uDmelWTGiaf12AACRw-59" target="W2uDmelWTGiaf12AACRw-64" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1187" y="1802" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-106" value="19" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" vertex="1" parent="W2uDmelWTGiaf12AACRw-105">
+        <mxCell id="W2uDmelWTGiaf12AACRw-106" value="19" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" parent="W2uDmelWTGiaf12AACRw-105" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="-520" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-107" value="视频特征与评分" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="W2uDmelWTGiaf12AACRw-64" target="W2uDmelWTGiaf12AACRw-59">
+        <mxCell id="W2uDmelWTGiaf12AACRw-107" value="视频特征与评分" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" source="W2uDmelWTGiaf12AACRw-64" target="W2uDmelWTGiaf12AACRw-59" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1190" y="1850" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-108" value="20" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" vertex="1" parent="W2uDmelWTGiaf12AACRw-107">
+        <mxCell id="W2uDmelWTGiaf12AACRw-108" value="20" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" parent="W2uDmelWTGiaf12AACRw-107" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="506" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-109" value="汇总三维度评分报告（文本/语音/视频）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="W2uDmelWTGiaf12AACRw-59" target="W2uDmelWTGiaf12AACRw-58">
+        <mxCell id="W2uDmelWTGiaf12AACRw-109" value="汇总三维度评分报告（文本/语音/视频）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" source="W2uDmelWTGiaf12AACRw-59" target="W2uDmelWTGiaf12AACRw-58" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="499" y="1916" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-110" value="21" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" vertex="1" parent="W2uDmelWTGiaf12AACRw-109">
+        <mxCell id="W2uDmelWTGiaf12AACRw-110" value="21" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" parent="W2uDmelWTGiaf12AACRw-109" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="172" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-111" value="展示可视化结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="W2uDmelWTGiaf12AACRw-58" target="W2uDmelWTGiaf12AACRw-57">
+        <mxCell id="W2uDmelWTGiaf12AACRw-111" value="展示可视化结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" source="W2uDmelWTGiaf12AACRw-58" target="W2uDmelWTGiaf12AACRw-57" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="214" y="1964" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-112" value="22" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" vertex="1" parent="W2uDmelWTGiaf12AACRw-111">
+        <mxCell id="W2uDmelWTGiaf12AACRw-112" value="22" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" parent="W2uDmelWTGiaf12AACRw-111" vertex="1">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
             <mxPoint x="100.5" y="-7" as="offset" />
           </mxGeometry>
