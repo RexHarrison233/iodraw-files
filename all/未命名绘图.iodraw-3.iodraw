@@ -185,11 +185,12 @@
             <mxPoint x="-320" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-37" value="识别文本" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="W2uDmelWTGiaf12AACRw-6" target="W2uDmelWTGiaf12AACRw-3">
+        <mxCell id="W2uDmelWTGiaf12AACRw-37" value="识别文本" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="W2uDmelWTGiaf12AACRw-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="990" y="822" />
             </Array>
+            <mxPoint x="700" y="822" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W2uDmelWTGiaf12AACRw-38" value="13" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" vertex="1" parent="W2uDmelWTGiaf12AACRw-37">
