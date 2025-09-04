@@ -233,11 +233,12 @@
             <mxPoint x="-420" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YyHtQhWkbTqbLC0j5KYx-45" value="语速/流利度/稳定性/情绪 指标" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="YyHtQhWkbTqbLC0j5KYx-7" target="YyHtQhWkbTqbLC0j5KYx-3">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="YyHtQhWkbTqbLC0j5KYx-45" value="语速/流利度/稳定性/情绪 指标（第二耗时）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="YyHtQhWkbTqbLC0j5KYx-7" target="YyHtQhWkbTqbLC0j5KYx-3">
+          <mxGeometry x="0.0012" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1090" y="1083" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YyHtQhWkbTqbLC0j5KYx-46" value="17" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" vertex="1" parent="YyHtQhWkbTqbLC0j5KYx-45">
