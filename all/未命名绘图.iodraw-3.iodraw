@@ -190,7 +190,7 @@
             <Array as="points">
               <mxPoint x="990" y="822" />
             </Array>
-            <mxPoint x="900" y="820" as="targetPoint" />
+            <mxPoint x="890" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W2uDmelWTGiaf12AACRw-38" value="13" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;" vertex="1" parent="W2uDmelWTGiaf12AACRw-37">
