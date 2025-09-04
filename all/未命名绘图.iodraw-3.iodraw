@@ -28,7 +28,7 @@
         <mxCell id="W2uDmelWTGiaf12AACRw-64" value="OpenCV" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="1616" y="560" width="150" height="1509" as="geometry" />
         </mxCell>
-        <mxCell id="W2uDmelWTGiaf12AACRw-65" value="par" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+        <mxCell id="W2uDmelWTGiaf12AACRw-65" value="并行分析" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
           <mxGeometry x="582" y="1233" width="1120" height="637" as="geometry" />
         </mxCell>
         <mxCell id="W2uDmelWTGiaf12AACRw-66" value="[文本处理]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="W2uDmelWTGiaf12AACRw-65">
