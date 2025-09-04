@@ -388,10 +388,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hhtuPIkdM0Ck96DYMjpq-86" value="points_account" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="48" y="20" width="182" height="113" as="geometry" />
+          <mxGeometry x="40" y="20" width="210" height="113" as="geometry" />
         </mxCell>
         <mxCell id="hhtuPIkdM0Ck96DYMjpq-87" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="hhtuPIkdM0Ck96DYMjpq-86">
-          <mxGeometry y="25" width="182" height="22" as="geometry" />
+          <mxGeometry y="25" width="210" height="22" as="geometry" />
         </mxCell>
         <mxCell id="hhtuPIkdM0Ck96DYMjpq-88" value="int" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="hhtuPIkdM0Ck96DYMjpq-87">
           <mxGeometry width="24" height="22" as="geometry">
@@ -409,12 +409,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hhtuPIkdM0Ck96DYMjpq-91" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="hhtuPIkdM0Ck96DYMjpq-87">
-          <mxGeometry x="152" width="30" height="22" as="geometry">
-            <mxRectangle width="30" height="22" as="alternateBounds" />
+          <mxGeometry x="152" width="58" height="22" as="geometry">
+            <mxRectangle width="58" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hhtuPIkdM0Ck96DYMjpq-92" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="hhtuPIkdM0Ck96DYMjpq-86">
-          <mxGeometry y="47" width="182" height="22" as="geometry" />
+          <mxGeometry y="47" width="210" height="22" as="geometry" />
         </mxCell>
         <mxCell id="hhtuPIkdM0Ck96DYMjpq-93" value="enum" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="hhtuPIkdM0Ck96DYMjpq-92">
           <mxGeometry width="24" height="22" as="geometry">
@@ -432,12 +432,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hhtuPIkdM0Ck96DYMjpq-96" value="所有者类型" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="hhtuPIkdM0Ck96DYMjpq-92">
-          <mxGeometry x="152" width="30" height="22" as="geometry">
-            <mxRectangle width="30" height="22" as="alternateBounds" />
+          <mxGeometry x="152" width="58" height="22" as="geometry">
+            <mxRectangle width="58" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hhtuPIkdM0Ck96DYMjpq-97" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="hhtuPIkdM0Ck96DYMjpq-86">
-          <mxGeometry y="69" width="182" height="22" as="geometry" />
+          <mxGeometry y="69" width="210" height="22" as="geometry" />
         </mxCell>
         <mxCell id="hhtuPIkdM0Ck96DYMjpq-98" value="int" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="hhtuPIkdM0Ck96DYMjpq-97">
           <mxGeometry width="24" height="22" as="geometry">
@@ -455,12 +455,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hhtuPIkdM0Ck96DYMjpq-101" value="所有者ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="hhtuPIkdM0Ck96DYMjpq-97">
-          <mxGeometry x="152" width="30" height="22" as="geometry">
-            <mxRectangle width="30" height="22" as="alternateBounds" />
+          <mxGeometry x="152" width="58" height="22" as="geometry">
+            <mxRectangle width="58" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hhtuPIkdM0Ck96DYMjpq-102" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="hhtuPIkdM0Ck96DYMjpq-86">
-          <mxGeometry y="91" width="182" height="22" as="geometry" />
+          <mxGeometry y="91" width="210" height="22" as="geometry" />
         </mxCell>
         <mxCell id="hhtuPIkdM0Ck96DYMjpq-103" value="int" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="hhtuPIkdM0Ck96DYMjpq-102">
           <mxGeometry width="24" height="22" as="geometry">
@@ -478,8 +478,8 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hhtuPIkdM0Ck96DYMjpq-106" value="余额" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="hhtuPIkdM0Ck96DYMjpq-102">
-          <mxGeometry x="152" width="30" height="22" as="geometry">
-            <mxRectangle width="30" height="22" as="alternateBounds" />
+          <mxGeometry x="152" width="58" height="22" as="geometry">
+            <mxRectangle width="58" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hhtuPIkdM0Ck96DYMjpq-107" value="points_ledger" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
