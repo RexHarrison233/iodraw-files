@@ -125,6 +125,53 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="2c1kYR1trgaiPgz7fF-s-24" value="用户App" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1080" width="150" height="424" as="geometry" />
+        </mxCell>
+        <mxCell id="2c1kYR1trgaiPgz7fF-s-25" value="FastAPI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="369" y="1080" width="150" height="424" as="geometry" />
+        </mxCell>
+        <mxCell id="2c1kYR1trgaiPgz7fF-s-26" value="Stripe" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="594" y="1080" width="150" height="424" as="geometry" />
+        </mxCell>
+        <mxCell id="2c1kYR1trgaiPgz7fF-s-27" value="DB/订单/会话" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="794" y="1080" width="150" height="424" as="geometry" />
+        </mxCell>
+        <mxCell id="2c1kYR1trgaiPgz7fF-s-28" value="POST /consultations {toUser,amount}" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="2c1kYR1trgaiPgz7fF-s-24" target="2c1kYR1trgaiPgz7fF-s-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="278" y="1191" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2c1kYR1trgaiPgz7fF-s-29" value="创建支付" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="2c1kYR1trgaiPgz7fF-s-25" target="2c1kYR1trgaiPgz7fF-s-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="565" y="1239" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2c1kYR1trgaiPgz7fF-s-30" value="Webhook succeeded" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="2c1kYR1trgaiPgz7fF-s-26" target="2c1kYR1trgaiPgz7fF-s-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="568" y="1295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2c1kYR1trgaiPgz7fF-s-31" value="标记订单为 paid，创建 consultation 与 conversation 记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="2c1kYR1trgaiPgz7fF-s-25" target="2c1kYR1trgaiPgz7fF-s-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="665" y="1351" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2c1kYR1trgaiPgz7fF-s-32" value="返回会话ID，前端进入聊天" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="2c1kYR1trgaiPgz7fF-s-25" target="2c1kYR1trgaiPgz7fF-s-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="281" y="1399" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
