@@ -1,0 +1,81 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="ZDmdGGtqCEcaSyZOlnPj">
+    <mxGraphModel dx="1266" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2c1kYR1trgaiPgz7fF-s-1" value="用户App" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="150" height="592" as="geometry" />
+        </mxCell>
+        <mxCell id="2c1kYR1trgaiPgz7fF-s-2" value="FastAPI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="392" y="20" width="150" height="592" as="geometry" />
+        </mxCell>
+        <mxCell id="2c1kYR1trgaiPgz7fF-s-3" value="Stripe(GrabPay)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="688" y="20" width="150" height="592" as="geometry" />
+        </mxCell>
+        <mxCell id="2c1kYR1trgaiPgz7fF-s-4" value="DB/账本" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="888" y="20" width="150" height="592" as="geometry" />
+        </mxCell>
+        <mxCell id="2c1kYR1trgaiPgz7fF-s-5" value="FCM" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1088" y="20" width="150" height="592" as="geometry" />
+        </mxCell>
+        <mxCell id="2c1kYR1trgaiPgz7fF-s-6" value="POST /posts/{id}/tips {amount,currency}" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="2c1kYR1trgaiPgz7fF-s-1" target="2c1kYR1trgaiPgz7fF-s-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2c1kYR1trgaiPgz7fF-s-7" value="创建支付意图/会话" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="2c1kYR1trgaiPgz7fF-s-2" target="2c1kYR1trgaiPgz7fF-s-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="624" y="187" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2c1kYR1trgaiPgz7fF-s-8" value="跳转支付页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="2c1kYR1trgaiPgz7fF-s-3" target="2c1kYR1trgaiPgz7fF-s-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="441" y="235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2c1kYR1trgaiPgz7fF-s-9" value="完成支付" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="2c1kYR1trgaiPgz7fF-s-1" target="2c1kYR1trgaiPgz7fF-s-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="438" y="283" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2c1kYR1trgaiPgz7fF-s-10" value="Webhook payment_succeeded" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="2c1kYR1trgaiPgz7fF-s-3" target="2c1kYR1trgaiPgz7fF-s-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="627" y="339" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2c1kYR1trgaiPgz7fF-s-11" value="更新订单状态/写入双重记账/生成 tip 记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="2c1kYR1trgaiPgz7fF-s-2" target="2c1kYR1trgaiPgz7fF-s-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="724" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2c1kYR1trgaiPgz7fF-s-12" value="通知作者“收到打赏”" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="2c1kYR1trgaiPgz7fF-s-2" target="2c1kYR1trgaiPgz7fF-s-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="824" y="451" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2c1kYR1trgaiPgz7fF-s-13" value="打赏完成（查询/轮询）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="2c1kYR1trgaiPgz7fF-s-2" target="2c1kYR1trgaiPgz7fF-s-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="293" y="507" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
