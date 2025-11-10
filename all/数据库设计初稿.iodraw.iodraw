@@ -2051,7 +2051,7 @@
         <mxCell id="bPSLhrPbJ7kEwW-DMzXW-451" value="funds" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.58;entryX=0.76;entryY=0;rounded=0;" parent="1" source="bPSLhrPbJ7kEwW-DMzXW-316" target="bPSLhrPbJ7kEwW-DMzXW-205" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1660" y="548" />
+              <mxPoint x="1660" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
