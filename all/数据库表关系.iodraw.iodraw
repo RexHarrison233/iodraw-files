@@ -674,7 +674,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lb61KHR0o115uZgr-TVc-152" value="CONSULTATIONS" style="shape=table;startSize=75;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="1654" y="840" width="115" height="75" as="geometry" />
+          <mxGeometry x="1620" y="870" width="115" height="75" as="geometry" />
         </mxCell>
         <mxCell id="lb61KHR0o115uZgr-TVc-153" value="ENTERPRISE_MEMBERS" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="2009" y="353" width="149" height="113" as="geometry" />
