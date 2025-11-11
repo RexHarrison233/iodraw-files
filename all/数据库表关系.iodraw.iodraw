@@ -227,7 +227,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lb61KHR0o115uZgr-TVc-51" value="USER_PROFILES" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="2481" y="320" width="190" height="157" as="geometry" />
+          <mxGeometry x="2210" y="342" width="190" height="157" as="geometry" />
         </mxCell>
         <mxCell id="lb61KHR0o115uZgr-TVc-52" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="lb61KHR0o115uZgr-TVc-51" vertex="1">
           <mxGeometry y="25" width="190" height="22" as="geometry" />
@@ -677,7 +677,7 @@
           <mxGeometry x="1620" y="870" width="115" height="75" as="geometry" />
         </mxCell>
         <mxCell id="lb61KHR0o115uZgr-TVc-153" value="ENTERPRISE_MEMBERS" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="1960" y="320" width="149" height="113" as="geometry" />
+          <mxGeometry x="1940" y="300" width="149" height="113" as="geometry" />
         </mxCell>
         <mxCell id="lb61KHR0o115uZgr-TVc-154" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="lb61KHR0o115uZgr-TVc-153" vertex="1">
           <mxGeometry y="25" width="149" height="22" as="geometry" />
