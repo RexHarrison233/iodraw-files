@@ -3731,10 +3731,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lb61KHR0o115uZgr-TVc-838" value="owns" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.53;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="lb61KHR0o115uZgr-TVc-1" target="lb61KHR0o115uZgr-TVc-170" edge="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0228" y="29" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="70" y="270" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lb61KHR0o115uZgr-TVc-839" value="has" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.65;exitY=1;entryX=1;entryY=0.33;rounded=0;" parent="1" source="lb61KHR0o115uZgr-TVc-171" target="lb61KHR0o115uZgr-TVc-153" edge="1">
@@ -3927,11 +3928,6 @@
             <Array as="points">
               <mxPoint x="70" y="848" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NeXQsu7GXtPrsfsQ6nl3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lb61KHR0o115uZgr-TVc-148">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="800" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
