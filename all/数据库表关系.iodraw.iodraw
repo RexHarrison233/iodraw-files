@@ -1571,7 +1571,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lb61KHR0o115uZgr-TVc-355" value="CONTENT_MODERATIONS" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="3160" y="971" width="162" height="135" as="geometry" />
+          <mxGeometry x="3060" y="971" width="162" height="135" as="geometry" />
         </mxCell>
         <mxCell id="lb61KHR0o115uZgr-TVc-356" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="lb61KHR0o115uZgr-TVc-355" vertex="1">
           <mxGeometry y="25" width="162" height="22" as="geometry" />
@@ -2093,7 +2093,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lb61KHR0o115uZgr-TVc-473" value="ORDERS" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="3602" y="331" width="134" height="157" as="geometry" />
+          <mxGeometry x="3602" y="240" width="134" height="157" as="geometry" />
         </mxCell>
         <mxCell id="lb61KHR0o115uZgr-TVc-474" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="lb61KHR0o115uZgr-TVc-473" vertex="1">
           <mxGeometry y="25" width="134" height="22" as="geometry" />
