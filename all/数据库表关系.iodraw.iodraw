@@ -674,7 +674,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lb61KHR0o115uZgr-TVc-152" value="CONSULTATIONS" style="shape=table;startSize=75;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="1680" y="834" width="115" height="75" as="geometry" />
+          <mxGeometry x="1654" y="840" width="115" height="75" as="geometry" />
         </mxCell>
         <mxCell id="lb61KHR0o115uZgr-TVc-153" value="ENTERPRISE_MEMBERS" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="2009" y="353" width="149" height="113" as="geometry" />
@@ -1199,7 +1199,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lb61KHR0o115uZgr-TVc-271" value="COOP_EVENTS" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="1955" y="620" width="142" height="157" as="geometry" />
+          <mxGeometry x="1780" y="642" width="142" height="157" as="geometry" />
         </mxCell>
         <mxCell id="lb61KHR0o115uZgr-TVc-272" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="lb61KHR0o115uZgr-TVc-271" vertex="1">
           <mxGeometry y="25" width="142" height="22" as="geometry" />
