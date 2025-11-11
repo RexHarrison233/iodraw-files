@@ -830,7 +830,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lb61KHR0o115uZgr-TVc-188" value="COOPERATIONS" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="2973" y="342" width="154" height="135" as="geometry" />
+          <mxGeometry x="3044" y="260" width="154" height="135" as="geometry" />
         </mxCell>
         <mxCell id="lb61KHR0o115uZgr-TVc-189" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="lb61KHR0o115uZgr-TVc-188" vertex="1">
           <mxGeometry y="25" width="154" height="22" as="geometry" />
@@ -923,7 +923,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lb61KHR0o115uZgr-TVc-209" value="COOP_ASSIGNMENTS" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="2699" y="609" width="154" height="179" as="geometry" />
+          <mxGeometry x="2720" y="700" width="154" height="179" as="geometry" />
         </mxCell>
         <mxCell id="lb61KHR0o115uZgr-TVc-210" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="lb61KHR0o115uZgr-TVc-209" vertex="1">
           <mxGeometry y="25" width="154" height="22" as="geometry" />
