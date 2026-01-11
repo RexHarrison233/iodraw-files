@@ -92,6 +92,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="10" y="1660" as="targetPoint" />
             <mxPoint x="240" y="1490" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="300" y="1490" />
+              <mxPoint x="11" y="1490" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-27" value="bgm轨（包含音效）&lt;br&gt;（简单视频可采用自己的bgm，复杂视频不推荐）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
