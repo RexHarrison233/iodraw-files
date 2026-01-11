@@ -128,11 +128,17 @@
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-40" value="配置高低" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-280" y="1100" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-42" target="wqVrt6EE2UL9t6b3Zjzp-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-42" value="使用indextts引擎&lt;br&gt;进行tts，&lt;br&gt;支持音色克隆" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-280" y="1225" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-45" value="采用微软tts&lt;br&gt;常见短视频配音&lt;br&gt;生成速度快" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-510" y="1225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-48" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
