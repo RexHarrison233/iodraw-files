@@ -101,7 +101,7 @@
           <mxGeometry x="300" y="408.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-34" value="生成手工划定的字幕对应的语音" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="1330" width="120" height="60" as="geometry" />
+          <mxGeometry x="-50" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-38" target="wqVrt6EE2UL9t6b3Zjzp-40">
           <mxGeometry relative="1" as="geometry" />
@@ -134,10 +134,13 @@
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-42" value="使用indextts引擎&lt;br&gt;进行tts，&lt;br&gt;支持音色克隆" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-280" y="1225" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-45" target="wqVrt6EE2UL9t6b3Zjzp-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-45" value="采用微软tts&lt;br&gt;常见短视频配音&lt;br&gt;生成速度快" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-510" y="1225" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-48" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-48" value="二选一" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-400" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
