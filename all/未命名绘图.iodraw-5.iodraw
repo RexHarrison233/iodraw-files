@@ -89,7 +89,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-27" value="bgm轨（包含音效）&lt;br&gt;（简单视频可采用自己的bgm，复杂视频不推荐）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1225" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-29" target="wqVrt6EE2UL9t6b3Zjzp-34">
           <mxGeometry relative="1" as="geometry" />
@@ -140,7 +140,7 @@
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-45" value="采用微软tts&lt;br&gt;常见短视频配音&lt;br&gt;生成速度快" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-510" y="1225" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-48" value="二选一" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-48" value="二选一&lt;br&gt;进行逐句tts对齐&lt;br&gt;避免音画不同步" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-400" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
