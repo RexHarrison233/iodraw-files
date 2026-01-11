@@ -107,6 +107,9 @@
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-29" value="人声轨" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-50" y="970" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-31" target="wqVrt6EE2UL9t6b3Zjzp-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-31" value="原视频" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="850" width="120" height="60" as="geometry" />
         </mxCell>
@@ -166,6 +169,9 @@
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-51" value="进行三轨合一" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-50" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-56" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="990" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
