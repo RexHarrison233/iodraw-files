@@ -41,6 +41,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-9" target="wqVrt6EE2UL9t6b3Zjzp-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-9" value="进行ASR分离，分离时会自动与原片时间轴错开，避免字幕语音重复" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="407.5" width="120" height="62.5" as="geometry" />
         </mxCell>
@@ -88,6 +91,9 @@
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-29" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-50" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-31" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="408.75" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
