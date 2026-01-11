@@ -36,7 +36,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-19" value="确认asr识别结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wqVrt6EE2UL9t6b3Zjzp-12">
+        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-19" value="分离出的音频轨&lt;br&gt;确认asr识别结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wqVrt6EE2UL9t6b3Zjzp-12">
           <mxGeometry x="-0.0892" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -92,7 +92,7 @@
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-29" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-50" y="970" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-31" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-31" value="原视频" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="408.75" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
