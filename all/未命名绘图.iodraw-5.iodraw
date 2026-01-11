@@ -275,12 +275,6 @@
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-84" value="原视频" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2361" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-86" target="wqVrt6EE2UL9t6b3Zjzp-100">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-86" value="生成手工划定的字幕对应的语音" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1721" y="1300" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-88" target="wqVrt6EE2UL9t6b3Zjzp-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -338,7 +332,7 @@
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-99" value="二选一&lt;br&gt;进行逐句tts对齐&lt;br&gt;避免音画不同步" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1371" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-100" value="进行三轨合一" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-100" value="进行二轨合一" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1721" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-102" target="wqVrt6EE2UL9t6b3Zjzp-103">
