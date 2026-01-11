@@ -164,7 +164,7 @@
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-48" value="二选一&lt;br&gt;进行逐句tts对齐&lt;br&gt;避免音画不同步" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-400" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-51" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-51" value="进行三轨合一" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-50" y="1560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
