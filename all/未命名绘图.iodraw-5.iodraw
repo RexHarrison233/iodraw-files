@@ -112,16 +112,22 @@
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-40" target="wqVrt6EE2UL9t6b3Zjzp-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-44" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wqVrt6EE2UL9t6b3Zjzp-43">
+        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-44" value="高" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wqVrt6EE2UL9t6b3Zjzp-43">
           <mxGeometry x="-0.2533" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-40" target="wqVrt6EE2UL9t6b3Zjzp-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-40" value="配置高低" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-280" y="1100" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-42" value="使用indextts引擎&lt;br&gt;进行tts，&lt;br&gt;支持音色克隆" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-280" y="1225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-45" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="1225" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
