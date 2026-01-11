@@ -11,7 +11,7 @@
           <mxGeometry x="110" y="50" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-3" value="是否为复杂视频" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="150" width="80" height="40" as="geometry" />
+          <mxGeometry x="100" y="150" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
