@@ -103,8 +103,14 @@
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-34" value="生成手工划定的字幕对应的语音" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-50" y="1110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-38" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-38" target="wqVrt6EE2UL9t6b3Zjzp-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-38" value="进行tts" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-280" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-40" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="1100" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
