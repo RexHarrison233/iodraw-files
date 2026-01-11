@@ -88,6 +88,11 @@
             <mxPoint x="100" y="860" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="1560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-27" value="bgm轨（包含音效）&lt;br&gt;（简单视频可采用自己的bgm，复杂视频不推荐）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
@@ -99,6 +104,9 @@
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-31" value="原视频" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="408.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-34" target="wqVrt6EE2UL9t6b3Zjzp-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-34" value="生成手工划定的字幕对应的语音" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-50" y="1360" width="120" height="60" as="geometry" />
