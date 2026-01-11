@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="pTfJ0sw5fHP8Sq3mPb7A">
-    <mxGraphModel dx="2501" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="9197" dy="4270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -195,13 +195,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-64" value="手动输入原片字幕及原片时间" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="450" width="80" height="55" as="geometry" />
+          <mxGeometry x="1080" y="400" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-68" target="wqVrt6EE2UL9t6b3Zjzp-71">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1190" y="685" />
-              <mxPoint x="1190" y="685" />
+              <mxPoint x="1120" y="635" />
+              <mxPoint x="1120" y="635" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -214,7 +214,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-68" value="进行ASR分离，分离时会自动与原片时间轴错开，避免字幕语音重复" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="582.5" width="120" height="62.5" as="geometry" />
+          <mxGeometry x="1060" y="532.5" width="120" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-71" target="wqVrt6EE2UL9t6b3Zjzp-75">
           <mxGeometry relative="1" as="geometry" />
@@ -225,7 +225,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-71" value="进行ai错别字校对，避免因为识别错误导致的同音字影响语义" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="726.25" width="120" height="60" as="geometry" />
+          <mxGeometry x="1060" y="676.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-75" target="wqVrt6EE2UL9t6b3Zjzp-76">
           <mxGeometry relative="1" as="geometry" />
@@ -239,62 +239,62 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-75" value="进行ai原句改写" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="866.25" width="120" height="60" as="geometry" />
+          <mxGeometry x="1060" y="816.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-76" value="进行语音与bgm分离" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="1006.25" width="120" height="60" as="geometry" />
+          <mxGeometry x="1060" y="956.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-76" target="wqVrt6EE2UL9t6b3Zjzp-80">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1250" y="1176.3" as="sourcePoint" />
+            <mxPoint x="1180" y="1126.3" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1340" y="1036" />
+              <mxPoint x="1270" y="986" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="wqVrt6EE2UL9t6b3Zjzp-82">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1130" y="1035" as="sourcePoint" />
+            <mxPoint x="1060" y="985" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-80" target="wqVrt6EE2UL9t6b3Zjzp-103">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1330" y="1865" as="targetPoint" />
-            <mxPoint x="1270" y="1665" as="sourcePoint" />
+            <mxPoint x="1260" y="1815" as="targetPoint" />
+            <mxPoint x="1200" y="1615" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1330" y="1665" />
-              <mxPoint x="1041" y="1665" />
-              <mxPoint x="1041" y="1845" />
-              <mxPoint x="1330" y="1845" />
+              <mxPoint x="1260" y="1615" />
+              <mxPoint x="971" y="1615" />
+              <mxPoint x="971" y="1795" />
+              <mxPoint x="1260" y="1795" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-80" value="bgm轨（包含音效）&lt;br&gt;（简单视频可采用自己的bgm，复杂视频不推荐）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="1535" width="120" height="60" as="geometry" />
+          <mxGeometry x="1200" y="1485" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-82" target="wqVrt6EE2UL9t6b3Zjzp-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-82" value="人声轨" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="1145" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="1095" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-84" target="wqVrt6EE2UL9t6b3Zjzp-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-84" value="原视频" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="1025" width="120" height="60" as="geometry" />
+          <mxGeometry x="1550" y="975" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-86" target="wqVrt6EE2UL9t6b3Zjzp-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-86" value="生成手工划定的字幕对应的语音" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="1535" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="1485" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-88" target="wqVrt6EE2UL9t6b3Zjzp-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-88" value="进行tts" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="1145" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="1095" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-93" target="wqVrt6EE2UL9t6b3Zjzp-95">
           <mxGeometry relative="1" as="geometry" />
@@ -306,7 +306,7 @@
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-93">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="1400" as="targetPoint" />
+            <mxPoint x="510" y="1350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-92" value="低" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wqVrt6EE2UL9t6b3Zjzp-91">
@@ -315,17 +315,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-93" value="配置高低" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="1275" width="120" height="50" as="geometry" />
+          <mxGeometry x="680" y="1225" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-95" target="wqVrt6EE2UL9t6b3Zjzp-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-95" value="使用indextts引擎&lt;br&gt;进行tts，&lt;br&gt;支持音色克隆" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="1400" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="1350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="wqVrt6EE2UL9t6b3Zjzp-99">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="1460" as="sourcePoint" />
+            <mxPoint x="510" y="1410" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-97" value="采用微软tts&lt;br&gt;常见短视频配音&lt;br&gt;生成速度快" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -334,25 +334,25 @@
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-99" target="wqVrt6EE2UL9t6b3Zjzp-100">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="690" y="1665" />
-              <mxPoint x="1040" y="1665" />
+              <mxPoint x="620" y="1615" />
+              <mxPoint x="970" y="1615" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-99" value="二选一&lt;br&gt;进行逐句tts对齐&lt;br&gt;避免音画不同步" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="1535" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="1485" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-100" value="进行三轨合一" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="1735" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="1685" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-102" target="wqVrt6EE2UL9t6b3Zjzp-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-102" value="模糊底部字幕处理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="1735" width="120" height="60" as="geometry" />
+          <mxGeometry x="1550" y="1685" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-103" value="烧录硬字幕进入视频" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="1925" width="120" height="60" as="geometry" />
+          <mxGeometry x="1200" y="1875" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
