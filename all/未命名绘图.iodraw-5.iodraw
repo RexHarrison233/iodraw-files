@@ -90,7 +90,7 @@
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-27">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="10" y="1660" as="targetPoint" />
+            <mxPoint x="300" y="1690" as="targetPoint" />
             <mxPoint x="240" y="1490" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="300" y="1490" />
@@ -170,8 +170,14 @@
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-51" value="进行三轨合一" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-50" y="1560" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-56" target="wqVrt6EE2UL9t6b3Zjzp-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-56" value="模糊底部字幕处理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-58" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
