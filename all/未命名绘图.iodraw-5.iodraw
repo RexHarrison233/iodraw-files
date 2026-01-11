@@ -69,6 +69,11 @@
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-21" target="wqVrt6EE2UL9t6b3Zjzp-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-26" value="说话人分离方案识别会不准确，后续在找找办法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wqVrt6EE2UL9t6b3Zjzp-25">
+          <mxGeometry x="-0.0812" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-21" value="进行语音与bgm分离" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="831.25" width="120" height="60" as="geometry" />
         </mxCell>
