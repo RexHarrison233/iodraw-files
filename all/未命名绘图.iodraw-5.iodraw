@@ -58,7 +58,7 @@
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-13" target="wqVrt6EE2UL9t6b3Zjzp-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-23" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wqVrt6EE2UL9t6b3Zjzp-22">
+        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-23" value="确认改写结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wqVrt6EE2UL9t6b3Zjzp-22">
           <mxGeometry x="-0.1062" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
