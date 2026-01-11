@@ -85,7 +85,7 @@
             <mxPoint x="100" y="860" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-27" value="bgm轨道" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-27" value="bgm轨（包含音效）&lt;br&gt;（简单视频可采用自己的bgm，复杂视频不推荐）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-29" value="人声轨" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
