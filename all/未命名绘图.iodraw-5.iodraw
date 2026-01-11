@@ -66,8 +66,14 @@
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-13" value="进行ai原句改写" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="691.25" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-21" target="wqVrt6EE2UL9t6b3Zjzp-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-21" value="进行语音与bgm分离" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="831.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-24" value="根据手工片段生成原片音轨" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="971.25" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
