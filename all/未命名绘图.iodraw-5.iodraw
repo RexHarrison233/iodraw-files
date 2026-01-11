@@ -317,9 +317,14 @@
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-95" value="使用indextts引擎&lt;br&gt;进行tts，&lt;br&gt;支持音色克隆" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1491" y="1165" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="wqVrt6EE2UL9t6b3Zjzp-99">
+        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-97">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1321" y="1225" as="sourcePoint" />
+            <mxPoint x="1320" y="1260" as="sourcePoint" />
+            <mxPoint x="1430" y="1335" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1320" y="1260" />
+              <mxPoint x="1431" y="1260" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-97" value="采用微软tts&lt;br&gt;常见短视频配音&lt;br&gt;生成速度快" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
