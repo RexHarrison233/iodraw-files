@@ -36,9 +36,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="wqVrt6EE2UL9t6b3Zjzp-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="450" as="targetPoint" />
+        <mxCell id="wqVrt6EE2UL9t6b3Zjzp-19" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wqVrt6EE2UL9t6b3Zjzp-12">
+          <mxGeometry x="-0.0892" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wqVrt6EE2UL9t6b3Zjzp-9" value="进行ASR分离，分离时会自动与原片时间轴错开，避免字幕语音重复" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
