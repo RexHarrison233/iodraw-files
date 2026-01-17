@@ -55,8 +55,8 @@
         <mxCell id="azpy49zfcjhKLqrFMuGA-18" value="匹配双方面试时间段&lt;br&gt;选定面试时间段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="510" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="azpy49zfcjhKLqrFMuGA-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="820" width="120" height="60" as="geometry" />
+        <mxCell id="azpy49zfcjhKLqrFMuGA-20" value="达人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="820" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
