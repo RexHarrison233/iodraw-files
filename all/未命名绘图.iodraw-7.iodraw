@@ -87,6 +87,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Jl7z2PPWtLPML3kNX1kt-20" value="查询我的面试&lt;br&gt;GET&amp;nbsp;/api/interviews" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="780" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="170" y="810" />
+            </Array>
+            <mxPoint x="145" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
