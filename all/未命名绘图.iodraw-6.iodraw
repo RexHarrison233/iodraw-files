@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="1hV9vNyRZmy9z_XYo8JL">
-    <mxGraphModel dx="1080" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1907" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,7 +59,7 @@
           <mxGeometry x="210" y="820" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="azpy49zfcjhKLqrFMuGA-21" value="企业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="820" width="80" height="30" as="geometry" />
+          <mxGeometry x="-110" y="820" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="azpy49zfcjhKLqrFMuGA-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="azpy49zfcjhKLqrFMuGA-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -69,8 +69,8 @@
         </mxCell>
         <mxCell id="azpy49zfcjhKLqrFMuGA-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="azpy49zfcjhKLqrFMuGA-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="1400" as="sourcePoint" />
-            <mxPoint x="260" y="860" as="targetPoint" />
+            <mxPoint x="-70" y="1400" as="sourcePoint" />
+            <mxPoint x="-370" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="azpy49zfcjhKLqrFMuGA-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -84,6 +84,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="azpy49zfcjhKLqrFMuGA-27" value="设定可用面试&lt;br&gt;时间段" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="azpy49zfcjhKLqrFMuGA-26">
+          <mxGeometry x="-0.0585" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="azpy49zfcjhKLqrFMuGA-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-70" y="890" as="sourcePoint" />
+            <mxPoint x="-70" y="940" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-20" y="890" />
+              <mxPoint x="-20" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="azpy49zfcjhKLqrFMuGA-29" value="设定可用面试&lt;br&gt;时间段" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="azpy49zfcjhKLqrFMuGA-28">
           <mxGeometry x="-0.0585" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
