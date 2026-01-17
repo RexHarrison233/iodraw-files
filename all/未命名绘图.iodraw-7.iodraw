@@ -43,7 +43,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jl7z2PPWtLPML3kNX1kt-11" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" source="Jl7z2PPWtLPML3kNX1kt-8" target="Jl7z2PPWtLPML3kNX1kt-9">
+        <mxCell id="Jl7z2PPWtLPML3kNX1kt-11" value="选择达人并搜索达人可用面试时间段" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" source="Jl7z2PPWtLPML3kNX1kt-8" target="Jl7z2PPWtLPML3kNX1kt-9">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="370" y="520" as="sourcePoint" />
             <mxPoint x="400" y="525" as="targetPoint" />
