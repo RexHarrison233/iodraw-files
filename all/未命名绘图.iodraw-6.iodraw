@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="azpy49zfcjhKLqrFMuGA-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="azpy49zfcjhKLqrFMuGA-1" target="azpy49zfcjhKLqrFMuGA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="azpy49zfcjhKLqrFMuGA-1" value="达人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="510" width="60" height="30" as="geometry" />
         </mxCell>
@@ -42,6 +45,9 @@
         </mxCell>
         <mxCell id="azpy49zfcjhKLqrFMuGA-8" value="寻找达人" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="195" y="327.5" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="azpy49zfcjhKLqrFMuGA-16" value="匹配双方面试时间段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="510" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
