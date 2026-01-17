@@ -14,12 +14,24 @@
           <mxGeometry x="45" y="130" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Jl7z2PPWtLPML3kNX1kt-4" value="设定可用&lt;br&gt;面试时间段" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="Jl7z2PPWtLPML3kNX1kt-3" parent="Jl7z2PPWtLPML3kNX1kt-2" source="Jl7z2PPWtLPML3kNX1kt-2">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0001" relative="1" as="geometry">
             <mxPoint x="55" y="120" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="-10" y="70" />
               <mxPoint x="-10" y="150" />
             </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jl7z2PPWtLPML3kNX1kt-6" value="设定可用&lt;br&gt;面试时间段" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0001" relative="1" as="geometry">
+            <mxPoint x="140" y="380" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="380" />
+              <mxPoint x="80" y="460" />
+            </Array>
+            <mxPoint x="135" y="460" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
