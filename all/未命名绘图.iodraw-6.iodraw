@@ -4,14 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="azpy49zfcjhKLqrFMuGA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="azpy49zfcjhKLqrFMuGA-1" target="azpy49zfcjhKLqrFMuGA-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="azpy49zfcjhKLqrFMuGA-1" value="达人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="510" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="azpy49zfcjhKLqrFMuGA-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="azpy49zfcjhKLqrFMuGA-3" target="azpy49zfcjhKLqrFMuGA-6">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="azpy49zfcjhKLqrFMuGA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="azpy49zfcjhKLqrFMuGA-3" target="azpy49zfcjhKLqrFMuGA-8">
           <mxGeometry relative="1" as="geometry" />
@@ -25,8 +19,8 @@
         <mxCell id="azpy49zfcjhKLqrFMuGA-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="azpy49zfcjhKLqrFMuGA-6" target="azpy49zfcjhKLqrFMuGA-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="120" y="310" />
-              <mxPoint x="90" y="310" />
+              <mxPoint x="90" y="300" />
+              <mxPoint x="90" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
