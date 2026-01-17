@@ -38,7 +38,7 @@
         <mxCell id="Jl7z2PPWtLPML3kNX1kt-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Jl7z2PPWtLPML3kNX1kt-2">
           <mxGeometry x="45" y="350" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Jl7z2PPWtLPML3kNX1kt-6" value="设定可用&lt;br&gt;面试时间段" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="Jl7z2PPWtLPML3kNX1kt-6" value="设定可用&lt;br&gt;面试时间段&lt;br&gt;POST&amp;nbsp;/api/availability-slots" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.0001" relative="1" as="geometry">
             <mxPoint x="410" y="360" as="sourcePoint" />
             <Array as="points">
@@ -50,9 +50,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Jl7z2PPWtLPML3kNX1kt-11" value="选择达人并搜索达人可用面试时间段" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" source="Jl7z2PPWtLPML3kNX1kt-8" target="Jl7z2PPWtLPML3kNX1kt-9">
-          <mxGeometry width="80" relative="1" as="geometry">
+          <mxGeometry x="-0.0001" width="80" relative="1" as="geometry">
             <mxPoint x="370" y="520" as="sourcePoint" />
             <mxPoint x="400" y="525" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Jl7z2PPWtLPML3kNX1kt-12" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1" source="Jl7z2PPWtLPML3kNX1kt-9" target="Jl7z2PPWtLPML3kNX1kt-8">
