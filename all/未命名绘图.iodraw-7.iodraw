@@ -153,6 +153,9 @@
         <mxCell id="Jl7z2PPWtLPML3kNX1kt-37" value="编辑后调用一次&lt;br&gt;POST/PATCH&lt;br&gt;/api/profiles/me&lt;br&gt;接口更新/创建&lt;br&gt;达人资料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1830" y="530" width="120" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="Jl7z2PPWtLPML3kNX1kt-39" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
