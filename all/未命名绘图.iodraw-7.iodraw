@@ -144,8 +144,14 @@
         <mxCell id="Jl7z2PPWtLPML3kNX1kt-31" value="返回结果交给前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1430" y="555" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Jl7z2PPWtLPML3kNX1kt-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jl7z2PPWtLPML3kNX1kt-35" target="Jl7z2PPWtLPML3kNX1kt-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Jl7z2PPWtLPML3kNX1kt-35" value="前端把结果展示给用户，用户可以编辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1630" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jl7z2PPWtLPML3kNX1kt-37" value="编辑后调用一次&lt;br&gt;POST/PATCH&lt;br&gt;/api/profiles/me&lt;br&gt;接口更新/创建&lt;br&gt;达人资料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="555" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
