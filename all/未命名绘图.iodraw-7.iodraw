@@ -127,7 +127,7 @@
         <mxCell id="Jl7z2PPWtLPML3kNX1kt-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jl7z2PPWtLPML3kNX1kt-27" target="Jl7z2PPWtLPML3kNX1kt-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Jl7z2PPWtLPML3kNX1kt-27" value="OCR识别（免费）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Jl7z2PPWtLPML3kNX1kt-27" value="OCR识别（免费）&lt;br&gt;POST&amp;nbsp;/api/me/resumes/{resumeId}/ocr" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1230" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jl7z2PPWtLPML3kNX1kt-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jl7z2PPWtLPML3kNX1kt-29" target="Jl7z2PPWtLPML3kNX1kt-31">
