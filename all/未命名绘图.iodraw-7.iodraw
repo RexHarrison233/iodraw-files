@@ -263,8 +263,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Jl7z2PPWtLPML3kNX1kt-73" value="过期后续期&lt;br&gt;POST&amp;nbsp;/api/conversations/{convId}/extend" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="Jl7z2PPWtLPML3kNX1kt-72" parent="1" source="Jl7z2PPWtLPML3kNX1kt-49">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0014" relative="1" as="geometry">
             <mxPoint x="1625" y="1555" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Jl7z2PPWtLPML3kNX1kt-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jl7z2PPWtLPML3kNX1kt-75" target="Jl7z2PPWtLPML3kNX1kt-76">
@@ -286,7 +287,7 @@
         <mxCell id="Jl7z2PPWtLPML3kNX1kt-76" value="付费咨询&lt;br&gt;POST&amp;nbsp;/api/consultations&lt;br&gt;不做角色限制&lt;br&gt;暂时没有时间限制" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="990" y="1390" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jl7z2PPWtLPML3kNX1kt-79" value="企业与达人在项目合作前咨询&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Jl7z2PPWtLPML3kNX1kt-79" value="企业与达人在项目合作前咨询&lt;br&gt;POST&amp;nbsp;/api/enterprises/{enterpriseId}/contacts&lt;br&gt;企业-达人，合作前付CAN币咨询，24h&lt;br&gt;可续时长&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="990" y="1477.5" width="270" height="45" as="geometry" />
         </mxCell>
       </root>
