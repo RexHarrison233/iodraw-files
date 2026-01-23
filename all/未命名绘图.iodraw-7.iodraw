@@ -219,14 +219,15 @@
             <mxPoint x="1625" y="1155" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jl7z2PPWtLPML3kNX1kt-60" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="Jl7z2PPWtLPML3kNX1kt-59" parent="1" source="Jl7z2PPWtLPML3kNX1kt-49">
+        <mxCell id="Jl7z2PPWtLPML3kNX1kt-60" value="企业锁定达人时间&lt;br&gt;/api/enterprises/{enterpriseId}/time-locks" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="Jl7z2PPWtLPML3kNX1kt-59" parent="1" source="Jl7z2PPWtLPML3kNX1kt-49">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1625" y="1205" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Jl7z2PPWtLPML3kNX1kt-61" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" source="Jl7z2PPWtLPML3kNX1kt-59" parent="1" target="Jl7z2PPWtLPML3kNX1kt-49">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0014" relative="1" as="geometry">
             <mxPoint x="1625" y="1275" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
