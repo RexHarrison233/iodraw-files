@@ -298,7 +298,7 @@
         <mxCell id="Jl7z2PPWtLPML3kNX1kt-79" value="企业与达人在项目合作前咨询&lt;br&gt;POST&amp;nbsp;/api/enterprises/{enterpriseId}/contacts&lt;br&gt;企业-达人，合作前付CAN币咨询，24h&lt;br&gt;可续时长&lt;br&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;POST&amp;nbsp;/api/conversations/{convId}/extend&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="990" y="1460" width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Jl7z2PPWtLPML3kNX1kt-82" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Jl7z2PPWtLPML3kNX1kt-82" value="完成分时达人合作/项目合作邀请&lt;br&gt;创建会话，24h&lt;br&gt;可续时长" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="990" y="1570" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
