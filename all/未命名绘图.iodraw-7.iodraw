@@ -252,25 +252,6 @@
             <mxPoint x="1460" y="1380" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jl7z2PPWtLPML3kNX1kt-65" value="企业" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1990" y="870" width="100" height="660" as="geometry" />
-        </mxCell>
-        <mxCell id="Jl7z2PPWtLPML3kNX1kt-67" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Jl7z2PPWtLPML3kNX1kt-65">
-          <mxGeometry x="45" y="150" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Jl7z2PPWtLPML3kNX1kt-68" value="创建合作/分时合作后&lt;br&gt;会创建对话im&lt;br&gt;对话持续24h&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="Jl7z2PPWtLPML3kNX1kt-67" parent="Jl7z2PPWtLPML3kNX1kt-65" source="Jl7z2PPWtLPML3kNX1kt-65">
-          <mxGeometry x="0.0018" relative="1" as="geometry">
-            <mxPoint x="83" y="80" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="113" y="110" />
-              <mxPoint x="113" y="170" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Jl7z2PPWtLPML3kNX1kt-66" value="达人" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="2230" y="870" width="100" height="660" as="geometry" />
-        </mxCell>
         <mxCell id="Jl7z2PPWtLPML3kNX1kt-70" value="都接受后，创建对话&lt;br&gt;对话持续24h" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="Jl7z2PPWtLPML3kNX1kt-69" parent="1" source="Jl7z2PPWtLPML3kNX1kt-49">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1625" y="1425" as="sourcePoint" />
