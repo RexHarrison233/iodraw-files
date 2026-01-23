@@ -186,13 +186,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Jl7z2PPWtLPML3kNX1kt-49" value="企业" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1400" y="870" width="100" height="670" as="geometry" />
+          <mxGeometry x="1400" y="870" width="100" height="780" as="geometry" />
         </mxCell>
         <mxCell id="Jl7z2PPWtLPML3kNX1kt-62" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Jl7z2PPWtLPML3kNX1kt-49">
           <mxGeometry x="45" y="430" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Jl7z2PPWtLPML3kNX1kt-50" value="分时达人" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1650" y="870" width="100" height="670" as="geometry" />
+          <mxGeometry x="1650" y="870" width="100" height="780" as="geometry" />
         </mxCell>
         <mxCell id="Jl7z2PPWtLPML3kNX1kt-53" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Jl7z2PPWtLPML3kNX1kt-50">
           <mxGeometry x="45" y="120" width="10" height="40" as="geometry" />
