@@ -271,7 +271,7 @@
         <mxCell id="Jl7z2PPWtLPML3kNX1kt-66" value="达人" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="2230" y="870" width="100" height="660" as="geometry" />
         </mxCell>
-        <mxCell id="Jl7z2PPWtLPML3kNX1kt-70" value="都接受后，创建对话" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="Jl7z2PPWtLPML3kNX1kt-69" parent="1" source="Jl7z2PPWtLPML3kNX1kt-49">
+        <mxCell id="Jl7z2PPWtLPML3kNX1kt-70" value="都接受后，创建对话&lt;br&gt;对话持续24h" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="Jl7z2PPWtLPML3kNX1kt-69" parent="1" source="Jl7z2PPWtLPML3kNX1kt-49">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1625" y="1425" as="sourcePoint" />
           </mxGeometry>
