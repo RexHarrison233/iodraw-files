@@ -179,7 +179,7 @@
             <mxPoint x="1140" y="1065" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jl7z2PPWtLPML3kNX1kt-47" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" source="Jl7z2PPWtLPML3kNX1kt-45" parent="1" target="Jl7z2PPWtLPML3kNX1kt-40">
+        <mxCell id="Jl7z2PPWtLPML3kNX1kt-47" value="达人接受/拒绝邀请&lt;br&gt;/api/cooperations/{coopId}/assignments/accept" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" source="Jl7z2PPWtLPML3kNX1kt-45" parent="1" target="Jl7z2PPWtLPML3kNX1kt-40">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1140" y="1135" as="targetPoint" />
             <mxPoint as="offset" />
