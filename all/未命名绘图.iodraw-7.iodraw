@@ -268,13 +268,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Jl7z2PPWtLPML3kNX1kt-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jl7z2PPWtLPML3kNX1kt-75" target="Jl7z2PPWtLPML3kNX1kt-76">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="1500" />
+              <mxPoint x="880" y="1435" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Jl7z2PPWtLPML3kNX1kt-75" value="创建会话方式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="1480" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Jl7z2PPWtLPML3kNX1kt-76" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="895" y="1500" width="75" height="30" as="geometry" />
+          <mxGeometry x="915" y="1420" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
