@@ -287,8 +287,8 @@
         <mxCell id="Jl7z2PPWtLPML3kNX1kt-76" value="付费咨询&lt;br&gt;POST&amp;nbsp;/api/consultations&lt;br&gt;不做角色限制&lt;br&gt;暂时没有时间限制" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="990" y="1370" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jl7z2PPWtLPML3kNX1kt-79" value="企业与达人在项目合作前咨询&lt;br&gt;POST&amp;nbsp;/api/enterprises/{enterpriseId}/contacts&lt;br&gt;企业-达人，合作前付CAN币咨询，24h&lt;br&gt;可续时长&lt;br&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;POST&amp;nbsp;/api/conversations/{convId}/extend&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="990" y="1453.75" width="270" height="92.5" as="geometry" />
+        <mxCell id="Jl7z2PPWtLPML3kNX1kt-79" value="企业与达人在项目合作前咨询&lt;br&gt;POST&amp;nbsp;/api/enterprises/{enterpriseId}/contacts&lt;br&gt;企业-达人，合作前付CAN币咨询，24h&lt;br&gt;可续时长&lt;br&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;POST&amp;nbsp;/api/conversations/{convId}/extend&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1453.75" width="270" height="86.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
