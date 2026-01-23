@@ -157,11 +157,11 @@
           <mxGeometry x="827" y="870" width="100" height="500" as="geometry" />
         </mxCell>
         <mxCell id="Jl7z2PPWtLPML3kNX1kt-43" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Jl7z2PPWtLPML3kNX1kt-40">
-          <mxGeometry x="48" y="130" width="10" height="40" as="geometry" />
+          <mxGeometry x="45" y="130" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Jl7z2PPWtLPML3kNX1kt-44" value="self call" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="Jl7z2PPWtLPML3kNX1kt-43" parent="Jl7z2PPWtLPML3kNX1kt-40">
+        <mxCell id="Jl7z2PPWtLPML3kNX1kt-44" value="创建项目合作&lt;br&gt;POST&amp;nbsp;&lt;span style=&quot;color: rgb(194, 202, 209); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, roboto, &amp;quot;Helvetica Neue&amp;quot;, arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 14px; white-space-collapse: preserve; background-color: rgb(25, 26, 35);&quot;&gt;/api/cooperations&lt;/span&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="Jl7z2PPWtLPML3kNX1kt-43" parent="Jl7z2PPWtLPML3kNX1kt-40">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="53" y="110" as="sourcePoint" />
+            <mxPoint x="50" y="110" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="83" y="140" />
             </Array>
