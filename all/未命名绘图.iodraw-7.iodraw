@@ -233,10 +233,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jl7z2PPWtLPML3kNX1kt-63" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="Jl7z2PPWtLPML3kNX1kt-50">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="Jl7z2PPWtLPML3kNX1kt-63" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" target="Jl7z2PPWtLPML3kNX1kt-62" parent="1" source="Jl7z2PPWtLPML3kNX1kt-50">
+          <mxGeometry x="0.002" relative="1" as="geometry">
             <mxPoint x="1340" y="1305" as="sourcePoint" />
             <mxPoint x="1460" y="1305" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Jl7z2PPWtLPML3kNX1kt-64" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="Jl7z2PPWtLPML3kNX1kt-50">
