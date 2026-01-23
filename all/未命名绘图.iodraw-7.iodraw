@@ -281,6 +281,9 @@
             <mxPoint x="990" y="1500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Jl7z2PPWtLPML3kNX1kt-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jl7z2PPWtLPML3kNX1kt-75" target="Jl7z2PPWtLPML3kNX1kt-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Jl7z2PPWtLPML3kNX1kt-75" value="创建会话方式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="1480" width="90" height="40" as="geometry" />
         </mxCell>
@@ -288,7 +291,10 @@
           <mxGeometry x="990" y="1370" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jl7z2PPWtLPML3kNX1kt-79" value="企业与达人在项目合作前咨询&lt;br&gt;POST&amp;nbsp;/api/enterprises/{enterpriseId}/contacts&lt;br&gt;企业-达人，合作前付CAN币咨询，24h&lt;br&gt;可续时长&lt;br&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;POST&amp;nbsp;/api/conversations/{convId}/extend&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="990" y="1453.75" width="270" height="86.25" as="geometry" />
+          <mxGeometry x="990" y="1460" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jl7z2PPWtLPML3kNX1kt-82" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="895" y="1470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
