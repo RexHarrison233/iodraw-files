@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="NPyLJI2Kuv60p5j-qxB9">
-    <mxGraphModel dx="2532" dy="1486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1266" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -336,28 +336,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-76" value="企业付款" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="120" y="4009" width="124" height="49" as="geometry" />
+          <mxGeometry x="482" y="4449" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-77" value="平台收入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="294" y="4009" width="124" height="49" as="geometry" />
+          <mxGeometry x="656" y="4449" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-78" value="推荐官类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="468" y="3899" width="129" height="129" as="geometry" />
+          <mxGeometry x="830" y="4339" width="129" height="129" as="geometry" />
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-79" value="较高返佣比例" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="729" y="3890" width="156" height="49" as="geometry" />
+          <mxGeometry x="1091" y="4330" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-80" value="较低返佣比例" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="729" y="3989" width="156" height="49" as="geometry" />
+          <mxGeometry x="1091" y="4429" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-81" value="推荐官佣金" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="935" y="3939" width="140" height="49" as="geometry" />
+          <mxGeometry x="1297" y="4379" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-82" value="平台毛利" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="470" y="4078" width="124" height="49" as="geometry" />
+          <mxGeometry x="832" y="4518" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-83" value="提现 / 打款" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1125" y="3939" width="142" height="49" as="geometry" />
+          <mxGeometry x="1487" y="4379" width="142" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-84" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.48;entryX=0;entryY=0.48;rounded=0;" edge="1" parent="1" source="QO3Jk25-XGZw759a1r1a-76" target="QO3Jk25-XGZw759a1r1a-77">
           <mxGeometry relative="1" as="geometry">
@@ -367,42 +367,42 @@
         <mxCell id="QO3Jk25-XGZw759a1r1a-85" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="QO3Jk25-XGZw759a1r1a-77" target="QO3Jk25-XGZw759a1r1a-78">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="443" y="3964" />
+              <mxPoint x="805" y="4404" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-86" value="B 端推荐官" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.31;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="QO3Jk25-XGZw759a1r1a-78" target="QO3Jk25-XGZw759a1r1a-79">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="663" y="3914" />
+              <mxPoint x="1025" y="4354" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-87" value="C 端推荐官" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.69;entryX=0;entryY=0.48;rounded=0;" edge="1" parent="1" source="QO3Jk25-XGZw759a1r1a-78" target="QO3Jk25-XGZw759a1r1a-80">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="663" y="4013" />
+              <mxPoint x="1025" y="4453" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-88" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.17;entryY=0.01;rounded=0;" edge="1" parent="1" source="QO3Jk25-XGZw759a1r1a-79" target="QO3Jk25-XGZw759a1r1a-81">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="910" y="3914" />
+              <mxPoint x="1272" y="4354" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-89" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.48;entryX=0.17;entryY=0.99;rounded=0;" edge="1" parent="1" source="QO3Jk25-XGZw759a1r1a-80" target="QO3Jk25-XGZw759a1r1a-81">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="910" y="4013" />
+              <mxPoint x="1272" y="4453" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-90" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0.98;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="QO3Jk25-XGZw759a1r1a-77" target="QO3Jk25-XGZw759a1r1a-82">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="443" y="4102" />
+              <mxPoint x="805" y="4542" />
             </Array>
           </mxGeometry>
         </mxCell>
