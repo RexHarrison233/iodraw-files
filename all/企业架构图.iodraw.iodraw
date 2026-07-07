@@ -1,0 +1,13 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="NPyLJI2Kuv60p5j-qxB9">
+    <mxGraphModel dx="1266" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QO3Jk25-XGZw759a1r1a-1" value="```mermaid&#xa;flowchart LR&#xa;    subgraph 企业端&#xa;        E1[&quot;企业 HR / 招聘负责人&quot;]&#xa;        E2[&quot;发布岗位需求&quot;]&#xa;        E3[&quot;查看推荐简历&quot;]&#xa;        E4[&quot;面试 / 录用 / 付款&quot;]&#xa;    end&#xa;&#xa;    subgraph 推荐官端&#xa;        R1[&quot;B 端推荐官&quot;]&#xa;        R2[&quot;C 端推荐官&quot;]&#xa;        R3[&quot;上传简历&quot;]&#xa;        R4[&quot;推荐到岗位&quot;]&#xa;        R5[&quot;获得佣金&quot;]&#xa;    end&#xa;&#xa;    subgraph 平台端&#xa;        P1[&quot;岗位管理&quot;]&#xa;        P2[&quot;简历库&quot;]&#xa;        P3[&quot;推荐管理&quot;]&#xa;        P4[&quot;流程跟踪&quot;]&#xa;        P5[&quot;企业结算&quot;]&#xa;        P6[&quot;推荐官返佣&quot;]&#xa;        P7[&quot;风控 / 查重 / 审核&quot;]&#xa;    end&#xa;&#xa;    E1 --&gt; E2 --&gt; P1&#xa;    R1 --&gt; R3 --&gt; P2&#xa;    R2 --&gt; R3&#xa;    P1 --&gt; R4&#xa;    P2 --&gt; R4 --&gt; P3&#xa;    P3 --&gt; E3 --&gt; E4&#xa;    E4 --&gt; P5 --&gt; P6 --&gt; R5&#xa;    P7 --&gt; P2&#xa;    P7 --&gt; P3&#xa;```" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="290" width="180" height="560" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
