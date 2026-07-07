@@ -178,61 +178,61 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-42" value="平台端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="410" y="3220" width="1617" height="276" as="geometry" />
+          <mxGeometry x="1770" y="80" width="1617" height="276" as="geometry" />
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-43" value="推荐官端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="120" y="3516" width="2106" height="217" as="geometry" />
+          <mxGeometry x="1480" y="376" width="2106" height="217" as="geometry" />
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-44" value="企业端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="120" y="3753" width="1518" height="119" as="geometry" />
+          <mxGeometry x="1480" y="613" width="1518" height="119" as="geometry" />
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-45" value="企业 HR / 招聘负责人" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="145" y="3788" width="215" height="49" as="geometry" />
+          <mxGeometry x="1505" y="648" width="215" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-46" value="发布岗位需求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="453" y="3788" width="156" height="49" as="geometry" />
+          <mxGeometry x="1813" y="648" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-47" value="查看推荐简历" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1215" y="3788" width="156" height="49" as="geometry" />
+          <mxGeometry x="2575" y="648" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-48" value="面试 / 录用 / 付款" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1421" y="3788" width="192" height="49" as="geometry" />
+          <mxGeometry x="2781" y="648" width="192" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-49" value="B 端推荐官" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="183" y="3551" width="138" height="49" as="geometry" />
+          <mxGeometry x="1543" y="411" width="138" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-50" value="C 端推荐官" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="183" y="3650" width="138" height="49" as="geometry" />
+          <mxGeometry x="1543" y="510" width="138" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-51" value="上传简历" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="469" y="3601" width="124" height="49" as="geometry" />
+          <mxGeometry x="1829" y="461" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-52" value="推荐到岗位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="851" y="3601" width="140" height="49" as="geometry" />
+          <mxGeometry x="2211" y="461" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-53" value="获得佣金" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2077" y="3601" width="124" height="49" as="geometry" />
+          <mxGeometry x="3437" y="461" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-54" value="岗位管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="677" y="3413" width="124" height="49" as="geometry" />
+          <mxGeometry x="2037" y="273" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-55" value="简历库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="685" y="3314" width="108" height="49" as="geometry" />
+          <mxGeometry x="2045" y="174" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-56" value="推荐管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1041" y="3255" width="124" height="49" as="geometry" />
+          <mxGeometry x="2401" y="115" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-57" value="流程跟踪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="3285" width="124" height="49" as="geometry" />
+          <mxGeometry x="3230" y="145" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-58" value="企业结算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1688" y="3383" width="124" height="49" as="geometry" />
+          <mxGeometry x="3048" y="243" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-59" value="推荐官返佣" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1862" y="3383" width="140" height="49" as="geometry" />
+          <mxGeometry x="3222" y="243" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-60" value="风控 / 查重 / 审核" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="435" y="3285" width="192" height="49" as="geometry" />
+          <mxGeometry x="1795" y="145" width="192" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="QO3Jk25-XGZw759a1r1a-45" target="QO3Jk25-XGZw759a1r1a-46">
           <mxGeometry relative="1" as="geometry">
@@ -242,56 +242,56 @@
         <mxCell id="QO3Jk25-XGZw759a1r1a-62" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.45;entryY=0.98;rounded=0;" edge="1" parent="1" source="QO3Jk25-XGZw759a1r1a-46" target="QO3Jk25-XGZw759a1r1a-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="652" y="3813" />
+              <mxPoint x="2012" y="673" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-63" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.02;entryY=-0.01;rounded=0;" edge="1" parent="1" source="QO3Jk25-XGZw759a1r1a-49" target="QO3Jk25-XGZw759a1r1a-51">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="410" y="3576" />
+              <mxPoint x="1770" y="436" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.48;entryX=0.43;entryY=0.99;rounded=0;" edge="1" parent="1" source="QO3Jk25-XGZw759a1r1a-51" target="QO3Jk25-XGZw759a1r1a-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="652" y="3625" />
+              <mxPoint x="2012" y="485" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.02;entryY=0.98;rounded=0;" edge="1" parent="1" source="QO3Jk25-XGZw759a1r1a-50" target="QO3Jk25-XGZw759a1r1a-51">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="410" y="3674" />
+              <mxPoint x="1770" y="534" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-66" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.41;entryY=-0.01;rounded=0;" edge="1" parent="1" source="QO3Jk25-XGZw759a1r1a-54" target="QO3Jk25-XGZw759a1r1a-52">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="826" y="3437" />
+              <mxPoint x="2186" y="297" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-67" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.44;entryY=-0.01;rounded=0;" edge="1" parent="1" source="QO3Jk25-XGZw759a1r1a-55" target="QO3Jk25-XGZw759a1r1a-52">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="826" y="3339" />
+              <mxPoint x="2186" y="199" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.48;entryX=0.45;entryY=0.99;rounded=0;" edge="1" parent="1" source="QO3Jk25-XGZw759a1r1a-52" target="QO3Jk25-XGZw759a1r1a-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1016" y="3625" />
+              <mxPoint x="2376" y="485" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-69" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.47;entryY=0.01;rounded=0;" edge="1" parent="1" source="QO3Jk25-XGZw759a1r1a-56" target="QO3Jk25-XGZw759a1r1a-47">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1190" y="3279" />
+              <mxPoint x="2550" y="139" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -303,8 +303,8 @@
         <mxCell id="QO3Jk25-XGZw759a1r1a-71" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="QO3Jk25-XGZw759a1r1a-48" target="QO3Jk25-XGZw759a1r1a-58">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1638" y="3813" />
-              <mxPoint x="1663" y="3407" />
+              <mxPoint x="2998" y="673" />
+              <mxPoint x="3023" y="267" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -316,22 +316,22 @@
         <mxCell id="QO3Jk25-XGZw759a1r1a-73" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.48;rounded=0;" edge="1" parent="1" source="QO3Jk25-XGZw759a1r1a-59" target="QO3Jk25-XGZw759a1r1a-53">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2027" y="3407" />
-              <mxPoint x="2052" y="3625" />
+              <mxPoint x="3387" y="267" />
+              <mxPoint x="3412" y="485" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.97;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="QO3Jk25-XGZw759a1r1a-60" target="QO3Jk25-XGZw759a1r1a-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="652" y="3339" />
+              <mxPoint x="2012" y="199" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QO3Jk25-XGZw759a1r1a-75" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.01;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="QO3Jk25-XGZw759a1r1a-60" target="QO3Jk25-XGZw759a1r1a-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="652" y="3279" />
+              <mxPoint x="2012" y="139" />
             </Array>
           </mxGeometry>
         </mxCell>
